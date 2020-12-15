@@ -5,7 +5,7 @@
   "-f", "{connection_file}",
   "--profile", "collection",
   "--log-level", "DEBUG",
-  "--matplotlib", "widget"
+  "--matplotlib", "notebook"
  ],
  "display_name": "Collection (2020-2.0rc9)",
  "language": "python"
