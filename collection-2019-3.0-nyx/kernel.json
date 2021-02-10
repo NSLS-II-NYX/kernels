@@ -1,0 +1,12 @@
+{
+ "argv": [
+  "/opt/conda_envs/collection-2019-3.0-nyx/bin/python",
+  "-m", "ipykernel",
+  "-f", "{connection_file}",
+  "--profile", "collection",
+  "--log-level", "DEBUG",
+  "--matplotlib", "notebook"
+ ],
+ "display_name": "Collection (2019-3.0-nyx)",
+ "language": "python"
+}
