@@ -1,0 +1,12 @@
+{
+ "argv": [
+  "/opt/conda_envs/collection-2021-1.0/bin/python",
+  "-m", "ipykernel",
+  "-f", "{connection_file}",
+  "--profile", "collection",
+  "--log-level", "DEBUG",
+  "--matplotlib", "notebook"
+ ],
+ "display_name": "Collection (2021-1.0)",
+ "language": "python"
+}
